@@ -5,7 +5,7 @@ EroGrabber is a lightweight Ruby tool designed to make downloading video content
 ---
 
 ### 📝 Author's Note
-> **Apologies to the community—this is my first time using GitHub!** I created this downloader because I wanted a simpler way to save videos without dealing with the Network tab every time, and I wanted to share it with everyone. I hope you find it useful!
+> **Apologies to the community—this is my first time using GitHub!** I created this downloader because I wanted a simpler way to save videos without dealing with the Network tab every time, and I wanted to share it with everyone. I hope you find it useful! Also this is vibe coded because this is just gooner bait but their website is kinda BS I didnt wanna waste my time with coding this.
 
 ---
 
